@@ -1,16 +1,31 @@
-## Hi there 👋
+---
+Salut, je m'appelle Anthony, bienvenue sur ma page GitHub  
+---
 
-<!--
-**anthjatowrth/anthjatowrth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst / Business Intelligence / Data engineer 
 
-Here are some ideas to get you started:
+---
+Présentation
+---
+Anciennement diplômé en analyse financière internationale, je me suis maintenant reconverti dans le domaine de la Data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J'allie rigueur analytique, vision business et compétences techniques pour mener à bien tous mes projets.
+
+---
+🔹 Ce que je fais
+---
+- Nettoyage et analyse de données
+- Dashboards interactifs (BI)
+- Machine learning
+- Data visualisation
+- Projets data de bout en bout
+---
+🔹 Projets phares
+---
+➡️ CinéData - Projet streamlit et machine learning
+➡️ Toys & Models - Projet BI
+
+---
+🔹 Stack
+---
+Python • SQL • Pandas • Scikit-learn • Streamlit • Power BI • CSS • Git
