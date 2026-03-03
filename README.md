@@ -11,6 +11,7 @@ Anciennement diplômé en analyse financière internationale, je me suis mainten
 
 J'allie rigueur analytique, vision business et compétences techniques pour mener à bien tous mes projets.
 
+Portfolio : https://anthjatowrth.github.io
 ---
 🔹 Ce que je fais
 ---
